@@ -1,0 +1,11 @@
+h1{
+    color: rgb(94, 255, 0);
+}
+
+table,tr,td,th {
+    border: 1px solid black
+}
+
+th {
+    background-color: cornflowerblue;
+}
